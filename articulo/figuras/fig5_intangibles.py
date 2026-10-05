@@ -11,7 +11,6 @@ DATOS = [
     ("Suecia", 17.4, math.nan),
     ("EE. UU.", 15.6, 10.3),
     ("Francia", 15.2, 11.1),
-    ("Reino Unido*", 13.5, math.nan),
     ("Agregado 29\neconomías", 12.8, 11.8),
     ("España", 8.0, math.nan),
 ]
@@ -36,7 +35,7 @@ def main():
     ax.set_title("La inversión intangible ya supera a la tangible en el agregado; España, a la cola")
     ax.legend(frameon=False, loc="upper right")
     estilo.fuente(fig, "Fuente: WIPO y Luiss Business School (2026), World Intangible Investment Highlights 2026. "
-                       "*Reino Unido: año de la cifra por confirmar. n.d.: no verificado, no imputado.")
+                       "n.d.: cifra tangible no verificada, no imputada.")
     fig.tight_layout(rect=(0, 0.05, 1, 1))
     fig.savefig("fig5_intangibles.png", dpi=200)
 

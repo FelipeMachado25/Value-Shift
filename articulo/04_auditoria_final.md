@@ -1,6 +1,6 @@
 # Auditoría final del artículo Value Shift
 
-**Fecha:** 5 de octubre de 2026 · **Versión auditada:** `articulo_value_shift.md` v1.1
+**Fecha:** 5 de octubre de 2026 · **Versión auditada:** `articulo_value_shift.md` v1.2 (tercera auditoría añadida en §7)
 
 Esta auditoría cierra el trabajo con cuatro revisiones: (1) segunda ronda de verificación de cifras, (2) coherencia de cifras entre archivos, (3) cumplimiento de las diez reglas del encargo y (4) referencias.
 
@@ -60,7 +60,7 @@ No quedan discrepancias entre archivos en las cifras centrales.
 | Regla | Comprobación | Resultado |
 |---|---|---|
 | 1. Ninguna cita sin DOI o URL abierta | Las 131 referencias llevan DOI o URL y su estado. 3 abiertas (✅), 58 confirmadas en extracto (✅\*), 24 libros, 46 en 🔎 | **Cumplida parcialmente por límite de red.** Ninguna referencia 🔎 sostiene sola una afirmación central; todas las afirmaciones centrales tienen al menos una fuente ✅\* |
-| 2. Dos fuentes independientes por afirmación central | Revisé las cinco conclusiones de §8.1 y los cuatro veredictos de §6 | Cumplida. Excepciones declaradas en el texto: la asimetría de etiquetas (Frontiers, 2026) tiene una sola fuente y está marcada como confianza Media |
+| 2. Dos fuentes independientes por afirmación central | Revisé las cinco conclusiones de §8.1 y los cuatro veredictos de §6 | Cumplida. Excepciones declaradas en el texto: la asimetría de etiquetas (Lim et al., 2026) tiene una sola fuente y está marcada como confianza Media |
 | 3. Etiquetas [Hecho/Inferencia/Especulación] con confianza | 80 etiquetas en el cuerpo (64 Hecho, 11 Inferencia, 3 Especulación, 2 Señal); todas las subsecciones de evidencia (§4.1–4.6, §6.1–6.4, §8.1–8.3) tienen etiquetas | Cumplida |
 | 4. Correlación frente a causalidad; diseño del estudio | Corregí una frase de §6.3 que atribuía la caída de la entrada a la IA; ahora dice que tres estudios usan diferencias en diferencias y uno es descriptivo | Cumplida |
 | 5. Consultoras y prensa como señal | Ocean Tomo, CGTrader, Klarna, IBM, Big Four: marcados como señal o prensa | Cumplida |
@@ -90,3 +90,39 @@ Ambas medidas están dentro del rango pedido (9.000–12.000). Para entrar en el
 ## 6. Lo que queda abierto (y por qué)
 
 Los diez puntos de la lista (a) del artículo dependen de abrir documentos que la red bloquea o que no son públicos: el PDF de Canaries 2026, el comunicado de OpenAI, el anexo por país de WIPO, la herramienta de The Culture Factor, los datos del WVS, la entrevista de Bloomberg con Klarna, la fuente original de la cita de IBM, la versión publicada de Dell'Acqua et al., los decimales de Dratsch et al. y dos listas de autores. Ninguno cambia un veredicto: todos afectan a cifras secundarias, a citas o a metadatos de referencias.
+
+---
+
+## 7. Tercera auditoría (lo pendiente y lo existente)
+
+### 7.1 Pendientes de la lista (a) anterior
+
+| # | Pendiente | Resultado | Estado |
+|---|---|---|---|
+| 1 | Cifra senior de Canaries 2026 | La fuente solo dice que los experimentados "no muestran una brecha comparable"; no da cifra. El +10 % queda descartado | ❌ (retirado) |
+| 2 | Umbral de Humlum y Vestergaard | El NBER WP 33777 se titula ahora *Still waters, rapid currents* (rev. marzo de 2026) y descarta efectos mayores del **2 %** a dos años; el 1 % era de una versión previa (BFI WP 2025-56, *Large language models, small labor market effects*) | ✅\* · referencia corregida |
+| 3 | Comunicado de OpenAI | Localizado: "OpenAI and Hugging Face partner to address security incident during model evaluation" (21 jul 2026). La cronología técnica de Hugging Face se **leyó completa** en su repositorio de GitHub: actividad del 9 jul (02:28 UTC) al 13 jul (14:14 UTC); cinco datasets de clientes relacionados con ExploitGym/CyberGym; ningún modelo, dataset, Space o paquete público afectado | ✅ (Hugging Face) · ✅\* (OpenAI) |
+| 4 | Inversión tangible y Reino Unido en WIPO | EE. UU. y Francia confirmados; el 13,5 % británico no aparece en el informe 2026 → **retirado de la Figura 5**; Suecia y España siguen sin cifra tangible (n.d.) | ❌ Reino Unido · n.d. resto |
+| 5 | Hofstede revisado | Individualismo vigente: España 67, Colombia 13, Guatemala 6, Japón 62 | ✅\* |
+| 6 | Cita de Klarna | Confirmada y fechada (Bloomberg, 8 de mayo de 2025); cita completa añadida | ✅\* |
+| 7 | Cita de IBM | Confirmada en TechCrunch (12 de febrero de 2026): anuncio en la cumbre "Leading with AI" de Charter | ✅\* |
+| 8 | Dell'Acqua et al. en *Organization Science* | +43 %, +17 % y −19 p. p. se mantienen; DOI 10.1287/orsc.2025.21838 | ✅\* |
+| 9 | Decimales de Dratsch et al. | No localizados; el texto usa ahora las cifras redondeadas de RSNA (casi 80 % → <20 %; 82 % → 45,5 %) | ✅\* (cifras redondeadas) |
+| 10 | Autores pendientes | *Frontiers*: Lim, Lee, Sung y Jung (2026), vol. 17, 1840483 (antes citado como "Frontiers, 2026"); Budzyń et al.: 21 autores y DOI 10.1016/S2468-1253(25)00133-5 | ✅\* |
+
+### 7.2 Revisión de lo existente
+
+- **Referencias:** 25 referencias más verificadas en línea (entre ellas Autor et al. 2003; Autor 2015; Autor et al. 2024; Dittmar; Rubin; Allen; Crafts; Bronnenberg et al.; King y Baatartogtokh; Arntz et al.; Nordhaus; Comin y Hobijn; Frontier Economics; Fuchs et al.; Kahneman y Klein; Vargo y Lusch; Parasuraman y Manzey; Tripsas y Gavetti; Pine y Gilmore; Teece et al.; Beane; Zhang y Gosline; Brynjolfsson 2022). Se añadieron DOI a Tripsas y Gavetti, Teece et al., Zhang y Gosline, Dell'Acqua et al. y Budzyń et al.
+- **Correcciones de metadatos:** Crafts pasa a 2022 con su título real (*Slow real wage growth during the Industrial Revolution: Productivity paradox or pro-rich growth?*); se añadieron referencias de OpenAI (2026), Bloomberg (2025) y TechCrunch (2026); la referencia de Shopify (Fortune, 2025) tiene ahora URL.
+- **Dato no usado con discrepancia:** Comin y Hobijn (2010) dan un desfase medio de adopción de 45 o 47 años según la fuente; el artículo no usa esa cifra.
+- **Orden y citas:** lista reordenada alfabéticamente (134 entradas); todas las citas del texto tienen referencia.
+- **Extensión:** cuerpo con tablas 11.997 palabras; sin tablas ≈9.200. Para mantener el límite, condensé §3.6 y §9.1.
+
+### 7.3 Estado final
+
+| Registro | ✅ | ✅\* | 🔎 | ❌ | Libros |
+|---|---|---|---|---|---|
+| Anexo B (79 cifras) | 3 | 67 | 3 | 6 | — |
+| Referencias (134) | 3 | 87 | 20 | — | 24 |
+
+Las tres cifras que siguen en 🔎 son secundarias: el coeficiente −0,178 de Canaries, el 1–5 % de horas con IA (Bick et al.) y el 54 % de trabajadores españoles expuestos (prensa sobre Fedea). Las 20 referencias en 🔎 son clásicas o de prensa y ninguna sostiene sola una afirmación central.

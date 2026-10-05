@@ -52,12 +52,12 @@ Nivel de la jerarquía de evidencia: (1) revisado por pares u oficial · (2) wor
 |---|---|---|---|---|---|
 | Distancia al poder | 57 | 67 | 95 | 54 | ✅\* |
 | Individualismo (puntuación original) | 51 | 13 | 6 | 46 | ✅\* |
-| Individualismo (revisión de The Culture Factor, 2023) | 67 | por verificar | por verificar | 62 | 🔎 |
+| Individualismo (vigente en The Culture Factor, datos de mayo de 2025) | 67 | 13 | 6 | 62 | ✅\* |
 | Evitación de la incertidumbre | 86 | 80 | 101 | 92 | ✅\* |
 
 Fuentes: The Culture Factor, *Country comparison tool* (https://www.theculturefactor.com/country-comparison-tool); Hofstede (2001).
 
-**Aviso.** The Culture Factor revisó en 2023 las puntuaciones de individualismo de varios países (Japón pasa de 46 a 62; España de 51 a 67, según los extractos). Hay que fijar la versión antes de citar. Guatemala carece de puntuaciones de orientación a largo plazo e indulgencia.
+**Aviso.** The Culture Factor actualizó el individualismo de varios países: Japón pasa de 46 a 62 y España de 51 a 67; Colombia (13) y Guatemala (6) no cambian (tercera auditoría). Guatemala carece de puntuaciones de orientación a largo plazo e indulgencia.
 
 **WVS (mapa Inglehart–Welzel 2023, ola 7, 2017–2022).** Japón aparece entre los más secular-racionales del mundo; Colombia y Guatemala en el grupo latinoamericano, con valores tradicionales y de autoexpresión moderada; España en el grupo de la Europa católica. No pude extraer las coordenadas numéricas: hay que descargarlas del WVS antes de escribir el capítulo. 🔎
 
@@ -90,7 +90,7 @@ Fuentes: The Culture Factor, *Country comparison tool* (https://www.theculturefa
 | e1 | Stephany, F. y Teutloff, O. (2024). What is the price of a skill? The value of complementarity. *Research Policy, 53*(1). | https://www.sciencedirect.com/science/article/pii/S0048733323001828 | 25.000 trabajadores, 962 habilidades, plataforma freelance, una década | Las habilidades de IA pagan un 21 % más de media frente a un 4 % de la habilidad media; el valor de una habilidad depende de con cuántas otras se complementa. | Plataforma freelance; prima a habilidades de IA, no al juicio. | ✅\* |
 | e2 | Mäkelä, E. y Stephany, F. (2024). Complement or substitute? How AI increases the demand for human skills. arXiv 2412.19754. | https://arxiv.org/abs/2412.19754 | Ofertas de empleo (EE. UU.; replicado en Reino Unido y Australia) | El efecto complementario de la IA es hasta un 50 % mayor que el sustitutivo; sube la demanda y la prima de resiliencia, trabajo en equipo, alfabetización digital; caen atención al cliente y revisión de textos. | Preprint; ofertas, no salarios pagados. | ✅\* |
 | e3 | Klein Teeselink (2025) | https://doi.org/10.2139/ssrn.5516798 | DiD con vacantes | En ocupaciones muy expuestas caen las vacantes (−23,4 %) y los **salarios ofertados**; el efecto se concentra en segmentos de salario alto. | Salarios ofertados, no pagados. | ✅\* |
-| e4 | [Autores por verificar] (2026). Human-made vs. AI-generated: how provenance labels drive strategic curation via perceived effort. *Frontiers in Psychology*. | https://doi.org/10.3389/fpsyg.2026.1840483 | Experimento, n = 618 | La etiqueta "IA" reduce el esfuerzo percibido; la etiqueta "hecho por humanos" **no** se diferencia de no etiquetar: lo humano es el supuesto por defecto. | Vídeos cortos; intención, no compra. | ✅\* |
+| e4 | Lim, H. S., Lee, B. G., Sung, Y. H. y Jung, C. W. (2026). Human-made vs. AI-generated: how provenance labels drive strategic curation via perceived effort. *Frontiers in Psychology, 17*, 1840483. | https://doi.org/10.3389/fpsyg.2026.1840483 | Experimento, n = 618 | La etiqueta "IA" reduce el esfuerzo percibido; la etiqueta "hecho por humanos" **no** se diferencia de no etiquetar: lo humano es el supuesto por defecto. | Vídeos cortos; intención, no compra. | ✅\* |
 | e5 | CGTrader vía Fortune (20 de agosto de 2026) | https://fortune.com/2026/08/20/ai-product-fatigue-online-marketplace-ecommerce/ | Datos de una plataforma (prensa) | Uno de cada seis modelos 3D subidos es generado por IA, pero esos activos suponen 1 de cada 90 dólares de ingresos y el 2,6 % de las ventas. | Dato de empresa vía prensa; no separa calidad de origen. | 🔎 (señal) |
 
 **Balance.** Sigue sin existir un estudio con precios de transacción que aísle una prima por juicio o autoría humana a igual calidad tras 2023. Lo más cercano: primas salariales previas a la IA para decisión y habilidades sociales (a2, a3), primas a habilidades complementarias de la IA (e1, e2) y una señal de mercado (e5). La asimetría de e4 importa: lo humano no gana prima por declararse; lo IA pierde valor por declararse.

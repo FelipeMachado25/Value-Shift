@@ -1,0 +1,406 @@
+{
+ "toc": [
+  {
+   "title": "1. Resumen y palabras clave",
+   "level": 1,
+   "href": "_Toc100001"
+  },
+  {
+   "title": "2. Introducción",
+   "level": 1,
+   "href": "_Toc100002"
+  },
+  {
+   "title": "2.1 El problema",
+   "level": 2,
+   "href": "_Toc100003"
+  },
+  {
+   "title": "2.2 Pregunta madre y preguntas derivadas",
+   "level": 2,
+   "href": "_Toc100004"
+  },
+  {
+   "title": "2.3 Aporte",
+   "level": 2,
+   "href": "_Toc100005"
+  },
+  {
+   "title": "3. Método",
+   "level": 1,
+   "href": "_Toc100006"
+  },
+  {
+   "title": "3.1 Diseño",
+   "level": 2,
+   "href": "_Toc100007"
+  },
+  {
+   "title": "3.2 Corpus de partida",
+   "level": 2,
+   "href": "_Toc100008"
+  },
+  {
+   "title": "3.3 Jerarquía de evidencia",
+   "level": 2,
+   "href": "_Toc100009"
+  },
+  {
+   "title": "3.4 Criterios de inclusión y exclusión",
+   "level": 2,
+   "href": "_Toc100010"
+  },
+  {
+   "title": "3.5 Etiquetas",
+   "level": 2,
+   "href": "_Toc100011"
+  },
+  {
+   "title": "3.6 Verificación y su límite",
+   "level": 2,
+   "href": "_Toc100012"
+  },
+  {
+   "title": "3.7 Límites del método",
+   "level": 2,
+   "href": "_Toc100013"
+  },
+  {
+   "title": "3.8 Resultado de la auditoría: diez cifras en conflicto",
+   "level": 2,
+   "href": "_Toc100014"
+  },
+  {
+   "title": "4. Marco teórico: seis pilares",
+   "level": 1,
+   "href": "_Toc100015"
+  },
+  {
+   "title": "4.1 Pilar A. Teoría del valor: qué pasa con el valor cuando producir cuesta casi nada",
+   "level": 2,
+   "href": "_Toc100018"
+  },
+  {
+   "title": "4.2 Pilar B. Tecnología y trabajo: qué automatiza la IA, qué crea y qué pasa con la entrada",
+   "level": 2,
+   "href": "_Toc100019"
+  },
+  {
+   "title": "4.3 Pilar C. Revoluciones tecnológicas: velocidad de difusión frente a velocidad institucional",
+   "level": 2,
+   "href": "_Toc100020"
+  },
+  {
+   "title": "4.4 Pilar D. Experiencia e intangibles: por qué lo intangible gana peso",
+   "level": 2,
+   "href": "_Toc100021"
+  },
+  {
+   "title": "4.5 Pilar E. Cognición y juicio: cuándo la IA ayuda y cuándo estorba",
+   "level": 2,
+   "href": "_Toc100022"
+  },
+  {
+   "title": "4.6 Pilar F. Cambio organizacional y cultural: por qué unos se adaptan y otros no",
+   "level": 2,
+   "href": "_Toc100023"
+  },
+  {
+   "title": "4.7 La historia en el tiempo",
+   "level": 2,
+   "href": "_Toc100024"
+  },
+  {
+   "title": "5. Síntesis: constructos, modelo conceptual, hipótesis y proposiciones",
+   "level": 1,
+   "href": "_Toc100026"
+  },
+  {
+   "title": "5.1 Constructos: una definición, un nombre",
+   "level": 2,
+   "href": "_Toc100027"
+  },
+  {
+   "title": "5.2 Hipótesis reformuladas",
+   "level": 2,
+   "href": "_Toc100029"
+  },
+  {
+   "title": "5.3 Modelo conceptual",
+   "level": 2,
+   "href": "_Toc100030"
+  },
+  {
+   "title": "5.4 Proposiciones y medición",
+   "level": 2,
+   "href": "_Toc100033"
+  },
+  {
+   "title": "6. Evidencia por hipótesis",
+   "level": 1,
+   "href": "_Toc100035"
+  },
+  {
+   "title": "6.1 H1: commoditización dentro de la frontera",
+   "level": 2,
+   "href": "_Toc100037"
+  },
+  {
+   "title": "6.2 H2: migración de la prima a lo escaso y verificable",
+   "level": 2,
+   "href": "_Toc100038"
+  },
+  {
+   "title": "6.3 H3: escalera de entrada en riesgo, salvo rediseño",
+   "level": 2,
+   "href": "_Toc100039"
+  },
+  {
+   "title": "6.4 H4: creencias dentro de las restricciones",
+   "level": 2,
+   "href": "_Toc100040"
+  },
+  {
+   "title": "6.5 Figuras de evidencia",
+   "level": 2,
+   "href": "_Toc100041"
+  },
+  {
+   "title": "7. Casos",
+   "level": 1,
+   "href": "_Toc100045"
+  },
+  {
+   "title": "7.1 Música: del disco al directo (1996–2017)",
+   "level": 2,
+   "href": "_Toc100046"
+  },
+  {
+   "title": "7.2 Soporte al cliente con IA (2020–2021, publicado en 2025)",
+   "level": 2,
+   "href": "_Toc100047"
+  },
+  {
+   "title": "7.3 Consultores de BCG y la tarea trampa (2023, publicado en 2026)",
+   "level": 2,
+   "href": "_Toc100048"
+  },
+  {
+   "title": "7.4 Endoscopistas en Polonia (2021–2022, publicado en 2025)",
+   "level": 2,
+   "href": "_Toc100049"
+  },
+  {
+   "title": "7.5 Estudiantes turcos: la IA como muleta o como entrenador (2023–2024, publicado en 2025)",
+   "level": 2,
+   "href": "_Toc100050"
+  },
+  {
+   "title": "7.6 Klarna: el culto a la eficiencia y su corrección (2023–2025)",
+   "level": 2,
+   "href": "_Toc100051"
+  },
+  {
+   "title": "7.7 IBM: triplicar la entrada (febrero de 2026)",
+   "level": 2,
+   "href": "_Toc100052"
+  },
+  {
+   "title": "7.8 Los incidentes de evaluación de 2026: OpenAI, Hugging Face y Anthropic",
+   "level": 2,
+   "href": "_Toc100053"
+  },
+  {
+   "title": "8. Discusión: qué está probado, qué es inferencia y qué es apuesta",
+   "level": 1,
+   "href": "_Toc100054"
+  },
+  {
+   "title": "8.1 Lo probado",
+   "level": 2,
+   "href": "_Toc100055"
+  },
+  {
+   "title": "8.2 Lo que es inferencia",
+   "level": 2,
+   "href": "_Toc100056"
+  },
+  {
+   "title": "8.3 Lo que es apuesta",
+   "level": 2,
+   "href": "_Toc100057"
+  },
+  {
+   "title": "8.4 Qué cambia en el libro",
+   "level": 2,
+   "href": "_Toc100058"
+  },
+  {
+   "title": "9. Límites y agenda de investigación",
+   "level": 1,
+   "href": "_Toc100059"
+  },
+  {
+   "title": "9.1 Límites",
+   "level": 2,
+   "href": "_Toc100060"
+  },
+  {
+   "title": "9.2 Agenda",
+   "level": 2,
+   "href": "_Toc100061"
+  },
+  {
+   "title": "10. Referencias",
+   "level": 1,
+   "href": "_Toc100062"
+  },
+  {
+   "title": "Anexos",
+   "level": 1,
+   "href": "_Toc100063"
+  },
+  {
+   "title": "Anexo A. Matriz de evidencia",
+   "level": 2,
+   "href": "_Toc100064"
+  },
+  {
+   "title": "Anexo B. Registro de verificación",
+   "level": 2,
+   "href": "_Toc100065"
+  },
+  {
+   "title": "Anexo C. Fuentes descartadas y por qué",
+   "level": 2,
+   "href": "_Toc100066"
+  },
+  {
+   "title": "Anexo D. Plan de trabajo y los 10 huecos iniciales",
+   "level": 2,
+   "href": "_Toc100067"
+  },
+  {
+   "title": "Plan en cinco fases",
+   "level": 3,
+   "href": "_Toc100068"
+  },
+  {
+   "title": "Los 10 huecos o contradicciones más graves",
+   "level": 3,
+   "href": "_Toc100069"
+  },
+  {
+   "title": "Anexo E. Informe de auditoría final (tres rondas)",
+   "level": 2,
+   "href": "_Toc100070"
+  },
+  {
+   "title": "1. Segunda ronda de verificación",
+   "level": 3,
+   "href": "_Toc100071"
+  },
+  {
+   "title": "2. Coherencia de cifras entre archivos",
+   "level": 3,
+   "href": "_Toc100072"
+  },
+  {
+   "title": "3. Cumplimiento de las reglas del encargo",
+   "level": 3,
+   "href": "_Toc100073"
+  },
+  {
+   "title": "4. Referencias",
+   "level": 3,
+   "href": "_Toc100074"
+  },
+  {
+   "title": "5. Extensión",
+   "level": 3,
+   "href": "_Toc100075"
+  },
+  {
+   "title": "6. Lo que queda abierto (y por qué)",
+   "level": 3,
+   "href": "_Toc100076"
+  },
+  {
+   "title": "7. Tercera auditoría (lo pendiente y lo existente)",
+   "level": 3,
+   "href": "_Toc100077"
+  },
+  {
+   "title": "Cierre para el autor",
+   "level": 1,
+   "href": "_Toc100078"
+  },
+  {
+   "title": "(a) Las 10 afirmaciones que aún necesitan tu verificación manual",
+   "level": 2,
+   "href": "_Toc100079"
+  },
+  {
+   "title": "(b) Las 5 fuentes que debes leer completas antes de publicar",
+   "level": 2,
+   "href": "_Toc100080"
+  }
+ ],
+ "tof": [
+  {
+   "title": "Tabla 1. Matriz de conceptos: autores × constructos (● central; ○ tratado de forma secundaria)",
+   "level": 1,
+   "href": "_Toc100016"
+  },
+  {
+   "title": "Tabla 2. Definiciones en competencia de \"valor\", \"commodity\" y \"juicio\"",
+   "level": 1,
+   "href": "_Toc100017"
+  },
+  {
+   "title": "Figura 1. Línea de tiempo: de Smith (1776) a 2026",
+   "level": 1,
+   "href": "_Toc100025"
+  },
+  {
+   "title": "Tabla 3. Constructos adoptados",
+   "level": 1,
+   "href": "_Toc100028"
+  },
+  {
+   "title": "Figura 2. Modelo conceptual de Value Shift (las etiquetas Pn remiten a las proposiciones de §5.4)",
+   "level": 1,
+   "href": "_Toc100031"
+  },
+  {
+   "title": "Figura 3. Mapa 2×2: lo que la IA abarata × lo que el cliente puede verificar (posiciones ilustrativas, no medidas)",
+   "level": 1,
+   "href": "_Toc100032"
+  },
+  {
+   "title": "Tabla 4. Operacionalización: constructo → indicador → fuente de datos",
+   "level": 1,
+   "href": "_Toc100034"
+  },
+  {
+   "title": "Tabla 5. Hipótesis × evidencia a favor, en contra y confianza",
+   "level": 1,
+   "href": "_Toc100036"
+  },
+  {
+   "title": "Figura 4. Empleo junior frente a senior en ocupaciones o empresas expuestas",
+   "level": 1,
+   "href": "_Toc100042"
+  },
+  {
+   "title": "Figura 5. Inversión intangible frente a tangible por país (% del PIB, 2025)",
+   "level": 1,
+   "href": "_Toc100043"
+  },
+  {
+   "title": "Figura 6. Confianza del público en la IA frente a adopción empresarial",
+   "level": 1,
+   "href": "_Toc100044"
+  }
+ ]
+}

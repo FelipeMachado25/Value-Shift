@@ -41,7 +41,7 @@ Hipótesis: H1 (commoditización), H2 (migración del valor), H3 (pipeline junio
 | 31 | Ciudades con imprenta antes de 1500 crecieron un 60 % más entre 1500 y 1600. | Dittmar (2011) | H (VI) | A | C | H1, H2 | Apoya (analogía) |
 | 32 | La electricidad tardó décadas en dar productividad porque exigía rediseñar la planta. | David (1990) | I bien fundada | A | C | H4 | Apoya (rediseño) |
 | 33 | Adopción individual de IA generativa más rápida que la del PC o internet; en el trabajo, al ritmo del PC (27 % frente a 25 %). | Bick, Blandin y Deming (2024/2025) | H (encuesta representativa) | A | C | H1 | Contexto |
-| 34 | Pausa de Engels: producción por trabajador +46 %, salarios reales +12 % (1780–1840). | Allen (2009); matizado por Crafts (2021) | H disputado | M | C | H3, H4 | Matiza (costes de transición) |
+| 34 | Pausa de Engels: producción por trabajador +46 %, salarios reales +12 % (1780–1840). | Allen (2009); matizado por Crafts (2022) | H disputado | M | C | H3, H4 | Matiza (costes de transición) |
 | 35 | Asilomar, el TNP y la prohibición de clonación son pruebas de que las carreras se pueden encauzar, con condiciones. | NIH; IAEA; Consejo de Europa | H | A | C | — (cap. 11) | Contexto |
 | 36 | Inversión intangible >10 billones USD (2025); 12,8 % del PIB frente a 11,8 % tangible; España 8 %. | WIPO y Luiss (2026) | H (estimación oficial) | A | D | H2 | Apoya (macro) |
 | 37 | Ocean Tomo: ~92 % del valor del S&P 500 es intangible (2025). | Ocean Tomo (2025) | H (residuo de consultora) | B como medida | D | H2 | Señal |
